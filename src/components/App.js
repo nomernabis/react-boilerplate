@@ -3,10 +3,11 @@ import React, { Component } from "react"
 import "../styles/App.css"
 
 class App extends Component{
+
     render() {
         return (
             <div>
-                <h1>My React App!</h1>
+                <h1>Reddit Headlines</h1>
             </div>
         )
     }
